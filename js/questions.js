@@ -2,57 +2,57 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "J’ai laissé la bougie se … ",
+    answer: "consumer.",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "consumer.",
+      "consumé.",
+      "consommer.",
+      "consomé."
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "Il n’a jamais été très … ",
+    answer: "sociable.",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "social.",
+      "sociaux.",
+      "sociable.",
+      "socialisable."
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "On ne … trouve nulle part.",
+    answer: "la",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "l’a",
+      "là",
+      "l’as",
+      "la"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "J’ai bu deux verres et … ",
+    answer: "demi.",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "demie.",
+      "demi.",
+      "demis.",
+      "demies."
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "… sont les horaires de la ligne 1 ",
+    answer: "Quels",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "Quelles",
+      "Quels",
+      "Qu’elles",
+      "Quelle"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question

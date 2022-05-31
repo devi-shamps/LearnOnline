@@ -140,6 +140,12 @@ header ul li a:hover {
     font-weight: 600;
     letter-spacing: 1px;
     text-decoration: none;
+    transform: scale(0.95);
+    transition: all 0.3s ease;
+}
+.frBox .francais a:hover{
+    background: #608dc8;
+    color: white;
 }
 
 .cursor {
